@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "rollno": "123",
+      "name": "aryan",
+      "dob": "2023-05-09",
+      "score": "56"
+    },
+    {
+      "id": 4,
+      "rollno": "1234",
+      "name": "tarun",
+      "dob": "2023-05-24",
+      "score": "567"
+    }
+  ],
+  "signUp": [
+    {
+      "email": "aryanverma7651@gmail.com",
+      "password": "Aryan",
+      "id": 1
+    },
+    {
+      "email": "aryan@gmail.com",
+      "password": "Aryan",
+      "id": 2
+    },
+    {
+      "email": "anshu@gmail.com",
+      "password": "anshu",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
